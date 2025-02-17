@@ -1,0 +1,5 @@
+social-auth-app-django==5.4.3
+django==5.1.6
+django-import-export==4.3.5
+six==1.17.0
+pillow==11.1.0
